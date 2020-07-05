@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "@airtable/blocks": "0.0.51",
+        "bootstrap": "^4.5.0",
+        "html-react-parser": "^0.13.0",
+        "moment": "^2.27.0",
+        "react": "^16.9.0",
+        "react-bootstrap": "^1.0.1",
+        "react-chat-plugin": "^0.1.14",
+        "react-dom": "^16.9.0",
+        "react-iframe": "^1.8.0",
+        "react-responsive-carousel": "^3.2.9",
+        "react-slick": "^0.26.1",
+        "react-textarea-autosize": "^8.2.0",
+        "styled-components": "^5.1.1"
+    },
+    "devDependencies": {
+        "eslint": "^6.3.0",
+        "eslint-plugin-react": "^7.14.3",
+        "eslint-plugin-react-hooks": "^2.0.1"
+    },
+    "scripts": {
+        "lint": "eslint frontend"
+    }
+}
