@@ -20,14 +20,12 @@ Also, the block can handle any kind of scheduling scenarios and would be useful 
 * **Software Development:** Where the Technical Lead configures various tasks like development, testing, Bugs, etc and the developers and testers can easily interact and build a great product!
 * **And Many More**...!
 
-## How to run this block
+## How to remix this block
 
-1. Copy
-   [this base](https://airtable.com/shrqvXjYg9Kqqrf1O/tblTLgfrWh0ftithB/viwVTFBswwccXMqs3?blocks=hide).
+1. Create a new base (or you can use an existing base, for example [this base](https://airtable.com/shrqvXjYg9Kqqrf1O/tblTLgfrWh0ftithB/viwVTFBswwccXMqs3?blocks=hide)).
 
-2. Create a new block in your new base (see
-   [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block)),
-   entering this Git Repository as the source template.
+2. Create a new block in your base (see [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block),
+   selecting "Remix from Github" as your template.
 
 3. From the root of your new block, run `block run`.
 
