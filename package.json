@@ -3,7 +3,7 @@
         "@airtable/blocks": "0.0.51",
         "bootstrap": "^4.5.0",
         "html-react-parser": "^0.13.0",
-        "moment": "^2.27.0",
+        "moment": "^2.29.2",
         "react": "^16.9.0",
         "react-bootstrap": "^1.0.1",
         "react-chat-plugin": "^0.1.14",
